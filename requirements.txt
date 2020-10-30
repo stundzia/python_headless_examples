@@ -1,0 +1,4 @@
+pyppeteer==0.2.2
+playwright==0.151.1
+requests==2.24.0
+pyppeteer-stealth==2.6.0
